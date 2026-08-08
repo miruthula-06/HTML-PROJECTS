@@ -1,5 +1,3 @@
-```css
-/* Page */
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f6ff;
@@ -7,8 +5,6 @@ body {
     padding: 30px;
     color: #333;
 }
-
-/* Main container */
 .container {
     max-width: 800px;
     margin: auto;
@@ -17,65 +13,46 @@ body {
     border-radius: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
 }
-
-/* Main heading */
 h1 {
     text-align: center;
     color: #1e3a8a;
     margin-bottom: 5px;
 }
-
-/* Role */
 .role {
     text-align: center;
     color: #666;
     font-size: 18px;
     margin-bottom: 30px;
 }
-
-/* Section headings */
 h2 {
     color: #2563eb;
     border-bottom: 2px solid #2563eb;
     padding-bottom: 8px;
     margin-top: 30px;
 }
-
-/* Sub heading */
 h3 {
     color: #444;
 }
-
-/* Paragraphs */
 p {
     line-height: 1.7;
     font-size: 16px;
 }
-
-/* Skills and hobbies */
 ul {
     padding-left: 25px;
 }
-
 li {
     margin-bottom: 10px;
     line-height: 1.5;
 }
-
-/* Email link */
 a {
     color: #2563eb;
     text-decoration: none;
 }
-
 a:hover {
     text-decoration: underline;
 }
-
-/* Thank you message */
 .thank-you {
     text-align: center;
     color: #1e3a8a;
     margin-top: 30px;
 }
-```
